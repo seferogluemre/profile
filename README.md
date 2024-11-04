@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Yunus Emre SEFEROĞLU</h1>
-<h3 align="center">Fullstack Developer | React, TypeScript, Node.js, Express.js, NestJS | PostgreSQL, Prisma ORM, Passport.js | Building scalable web applications | Learning React Native for mobile development</h3>
+<h3 align="center">Fullstack Developer | React, TypeScript, Node.js, Express.js, NestJS | PostgreSQL, Prisma ORM, Passport.js | Building scalable web applications | Learning React Native And Java for mobile development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seferogluemre&label=Profile%20views&color=0e75b6&style=flat" alt="seferogluemre" /> </p>
 
