@@ -1,7 +1,7 @@
 <h1 align="center">Yunus Emre SEFEROĞLU</h1>
 <h3 align="center">Fullstack Developer | React, TypeScript, Node.js, Express.js, NestJS | PostgreSQL, Prisma ORM, Passport.js | Building scalable web applications | Learning React Native And Java for mobile development</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seferogluemre&show_icons=true&locale=en&layout=compact" alt="seferogluemre" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seferogluemre&label=Profile%20views&color=0e75b6&style=flat" alt="seferogluemre" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=seferogluemre&label=Profile%20views&color=0e75b6&style=flat" alt="seferogluemre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seferogluemre" alt="seferogluemre" /></a> </p>
 
