@@ -1,5 +1,5 @@
 <h1 align="center">Yunus Emre SEFEROĞLU</h1>
-<h3 align="center">Fullstack Developer | React, TypeScript, Node.js, Express.js, NestJS | PostgreSQL, Prisma ORM, Passport.js | Building scalable web applications | Learning React Native And Java for mobile development</h3>
+<h3 align="center">Fullstack Developer Trai. Frontend Developer | React Typescript NodeJS React Native</h3>
 
 
 
