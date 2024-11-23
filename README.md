@@ -1,5 +1,5 @@
 <h1 align="center">Yunus Emre SEFEROĞLU</h1>
-<h3 align="center">Fullstack Developer Trai. Frontend Developer | React Typescript NodeJS React Native</h3>
+<h3 align="center">Fullstack Developer Trai.| Frontend Developer | React Typescript NodeJS React Native</h3>
 
 
 
