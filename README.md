@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript React NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/seferogluemre](https://github.com/seferogluemre)
+- 👨‍💻 All of my projects are Available at [https://github.com/seferogluemre](https://github.com/seferogluemre)
 
 - 📫 How to reach me **yunusemre5331@icloud.com**
 
