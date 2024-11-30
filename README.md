@@ -45,7 +45,9 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40"/>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <img src="https://prismalens.vercel.app/header/logo-white.svg" height="65" width="70" />
-</p>
+ <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAABl0lEQVR4Ae2SAUQDYRiGv7+RElRVSSWxSaxabBFWIgqwjSnUVGkplmyyChMrAhqICGgCGQmUUlFoQY2KRSZbYg5QQlyvrf2Wg9t+DPZ4cQeP9/3uqAAUadVpLBM06qKGyZ4aW1d5azWJ0NDEljY1R5GScJIuJTI+LXRH3PrT2Wb3QGldBeWBVs/2TjTPMkVTuZep78NjjK+l074/Vq6tzXnywbUGLkjT3tvvf9LepK8j5MjtFKvb3EjYjspTXsJqFMQFuLfFO0jquYqzaMaIs1IWUHOvIewilQxZidcMHFJNPaMs8Im0uzZettLcRmrA0rhcBS9q4llJ43x/54PPENtC8JORGtY3XLL8gsTeL2bm7KSgzD5deXxXdfOKlA1bSQ1+v19OkUgknE4nKWCLATr7JOT8i5ktJC5lIw4WfPyTht4IiEhRCh25ETVLPDuiUugg4ka8Mp1BVIqxXAqj4poCUuiwmhtzlkqSFAwGlzPgoDS+Ah2rayKQnxT8ZEBrEiFbCnhrEgFLJQWiTU0mE7xOBVSkgPwCrcFTFMRNH2wAAAAASUVORK5CYII=" height="80" width="70" />
+    
+   </p>
 </div>
 </td><td valign="top" width="33%">
 
