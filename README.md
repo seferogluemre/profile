@@ -45,7 +45,7 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40"/>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <img src="https://prismalens.vercel.app/header/logo-white.svg" height="65" width="70" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPZ3yIm-P6tlsaLDenYjPG370GsgUbGPMmw&s" height="80" width="70" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPZ3yIm-P6tlsaLDenYjPG370GsgUbGPMmw&s" height="62" width="60" />
     
    </p>
 </div>
