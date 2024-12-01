@@ -42,7 +42,7 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer">
-   <img  width="70" height="80" src="https://onlyjs.com/build/q-Bc-PfcHg.webp" />
+   <img  width="70" height="70" src="https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png" />
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40"/>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <img src="https://prismalens.vercel.app/header/logo-white.svg" height="65" width="70" />
