@@ -1,7 +1,7 @@
 <h1 align="center">Yunus Emre SEFEROĞLU</h1>
 <h3 align="center">Fullstack Developer Trainee | Software Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seferogluemre&show_icons=true&locale=en&layout=compact" alt="seferogluemre" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seferogluemre&show_icons=true&locale=en&layout=compact" alt="seferogluemre" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seferogluemre" alt="seferogluemre" /></a> </p>
 
